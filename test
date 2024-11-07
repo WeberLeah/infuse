@@ -1,0 +1,139 @@
+ [
+   {
+        "type": "hysteria2",
+        "name": "🇭🇰 阿爪云 hysteria2-1",
+        "server": "47.76.44.74",
+        "port": 8882,
+        "password": "7ed712a7-3081-4ace-94ca-d14b3bb954d0",
+        "skip-cert-verify": true,
+        "tfo": false,
+        "udp": true,
+        "tls": true
+    },
+    {
+        "skip-cert-verify": true,
+        "type": "trojan",
+        "password": "7ed712a7-3081-4ace-94ca-d14b3bb954d0",
+        "server": "47.76.44.74",
+        "port": 8881,
+        "name": "🇭🇰 阿爪云 trojan-1",
+        "udp": true,
+        "tls": true
+    },
+    {
+        "skip-cert-verify": true,
+        "sni": "zufm4v39.cnmmb.xyz",
+        "type": "trojan",
+        "password": "NxyTPgP36D",
+        "server": "46.3.106.151",
+        "port": 60754,
+        "name": "🇭🇰 Yxvm HK ⁴⁸³⁷",
+        "udp": true,
+        "tls": true
+    },
+    {
+        "type": "hysteria2",
+        "name": "🇭🇰 阿爪云 hysteria2-2",
+        "server": "8.218.188.160",
+        "port": 8881,
+        "password": "c872b619-c4f7-4e9f-a818-f27dbc23ea36",
+        "skip-cert-verify": true,
+        "tfo": false,
+        "udp": true,
+        "tls": true
+    },
+    {
+        "type": "hysteria2",
+        "name": "🇭🇰 阿爪云 hysteria2-3",
+        "server": "47.76.64.169",
+        "port": 8881,
+        "password": "809bce87-d639-4c03-b0af-7bd5e2d72c59",
+        "skip-cert-verify": true,
+        "tfo": false,
+        "udp": true,
+        "tls": true
+    },
+    {
+        "skip-cert-verify": true,
+        "type": "trojan",
+        "password": "c872b619-c4f7-4e9f-a818-f27dbc23ea36",
+        "server": "8.218.188.160",
+        "port": 8882,
+        "name": "🇭🇰 阿爪云 trojan-2",
+        "udp": true,
+        "tls": true
+    },
+    {
+        "skip-cert-verify": true,
+        "type": "trojan",
+        "password": "809bce87-d639-4c03-b0af-7bd5e2d72c59",
+        "server": "47.76.64.169",
+        "port": 8883,
+        "name": "🇭🇰 阿爪云 trojan-3",
+        "udp": true,
+        "tls": true
+    },
+    {
+        "type": "hysteria2",
+        "name": "🇭🇰 阿爪云 hysteria2-4",
+        "server": "47.76.68.218",
+        "port": 8881,
+        "password": "dba77e12-b2e6-4f4f-8a92-abab976f555b",
+        "skip-cert-verify": true,
+        "tfo": false,
+        "udp": true,
+        "tls": true
+    },
+    {
+        "skip-cert-verify": true,
+        "type": "trojan",
+        "password": "dba77e12-b2e6-4f4f-8a92-abab976f555b",
+        "server": "47.76.68.218",
+        "port": 8882,
+        "name": "🇭🇰 阿爪云 trojan-4",
+        "udp": true,
+        "tls": true
+    },
+    {
+        "type": "hysteria2",
+        "name": "🇭🇰 阿爪云(Arrebol大佬捐赠) hysteria2",
+        "server": "47.76.55.147",
+        "port": 8881,
+        "password": "d3bbcf70-fb90-4420-a2d7-6454dcf48ff4",
+        "skip-cert-verify": true,
+        "tfo": false,
+        "udp": true,
+        "tls": true
+    },
+    {
+        "skip-cert-verify": true,
+        "type": "trojan",
+        "password": "d3bbcf70-fb90-4420-a2d7-6454dcf48ff4",
+        "server": "47.76.55.147",
+        "port": 8882,
+        "name": "🇭🇰 阿爪云(Arrebol大佬捐赠) trojan",
+        "udp": true,
+        "tls": true
+    },
+    {
+        "skip-cert-verify": true,
+        "type": "trojan",
+        "password": "8cbdf465-98a8-49b9-95dc-deec464f507b",
+        "server": "47.76.70.157",
+        "port": 8881,
+        "name": "🇭🇰 阿爪云（tao） trojan",
+        "udp": true,
+        "tls": true
+    },
+    {
+        "sni": "zufm4v39.cnmmb.xyz",
+        "type": "trojan",
+        "password": "Z5u32vZf5N",
+        "server": "46.3.106.151",
+        "port": 35435,
+        "name": "🇸🇬 AWS SG",
+        "udp": true,
+        "skip-cert-verify": true,
+        "tls": true
+    }
+]
