@@ -1,0 +1,48 @@
+[
+  {
+    "name": "vmess-54280",
+    "type": "vmess",
+    "server": "nyhy2.ffssaa7.top",
+    "port": 54280,
+    "cipher": "auto",
+    "uuid": "8652fa51-5179-4121-95c4-438a70f4029f",
+    "alterId": 0,
+    "tls": true,
+    "network": "ws",
+    "ws-opts": {
+      "path": "/ny",
+      "headers": {}
+    },
+    "sni": "nyhy2.ffssaa7.top"
+  },
+  {
+    "type": "hysteria2",
+    "name": "hysteria2-16456",
+    "server": "nyhy2.ffssaa7.top",
+    "port": 16456,
+    "password": "I31PpTOjtj",
+    "sni": "nyhy2.ffssaa7.top",
+    "skip-cert-verify": false,
+    "tfo": false,
+    "tls": true
+  },
+  {
+    "type": "vless",
+    "name": "vless-57269",
+    "server": "nyhy2.ffssaa7.top",
+    "port": 57269,
+    "uuid": "8652fa51-5179-4121-95c4-438a70f4029f",
+    "tls": true,
+    "sni": "nyhy2.ffssaa7.top",
+    "alpn": [
+      "h3",
+      "h2",
+      "http/1.1"
+    ],
+    "skip-cert-verify": false,
+    "network": "ws",
+    "ws-opts": {
+      "path": "/ny"
+    }
+  }
+]
