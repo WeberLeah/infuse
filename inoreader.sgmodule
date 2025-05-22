@@ -2,7 +2,7 @@
 #!desc=inoreader重定向
 
 [URL Rewrite]
-^https:\/\/(.*)\.inoreader\.com/(.*)$ https://$1.innoreader.com/$2 header
+^https:\/\/www\.inoreader\.com/(.*)$ https://www.innoreader.com/$1 302
 
 [MITM]
-hostname = %APPEND% *.innoreader.com
+hostname = %APPEND% www.inoreader.com
